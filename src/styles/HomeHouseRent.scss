@@ -1,0 +1,54 @@
+.houseRent_area{
+    background: #E5E5E5;
+}
+.houseRent_header p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.0015em;
+}
+.houseRent_header h1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 0.0015em;
+    color: #16322E;
+}
+.single_house_rent{
+    height: auto;
+}
+.single_house_rent_details ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+.single_house_rent_details ul li{
+    display: inline;
+    float: left;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.0015em;
+}
+.house_price h3{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 30px;
+    letter-spacing: 0.0015em;
+}
+.house_price button{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.0015em;
+}
