@@ -1,0 +1,34 @@
+
+.booking_list_area{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+}
+.booking_list_Table_Header {
+    background: #E5E5E5;
+    border-radius: 13px!important;
+    color: #686868;
+}
+.btn-select, select option {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 0px solid;
+    padding: .375rem .75rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.text-done {
+    color: #009444;
+}
+.text-pending {
+    color: #FF4545;
+}
+.text-onGoing {
+    color: #FFBD3E;
+}
